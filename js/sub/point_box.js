@@ -1,0 +1,11 @@
+$(function(){
+    $(".point").children("div").click(function(){              
+        $(".point_box").slideToggle();        
+    });
+    $(".delivery").children("div").click(function(){              
+        $(".delivery_box").slideToggle();        
+    });
+    $(".title_section").find("img").click(function(){              
+        $(this).parents(".title_section").children(".title_box").slideToggle();        
+    });
+});

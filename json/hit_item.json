@@ -1,0 +1,60 @@
+[{
+    "src":"img/item1.jpg",
+    "title":"교보문고 시그니처 독서대(..",
+    "discount":"10%",
+    "price":"70,200원"
+},
+{
+    "src":"img/item2.jpg",
+    "title":"ㄱ에디션 우드 세모형 북..",
+    "discount":"25%",
+    "price":"41,250원"
+},
+{
+    "src":"img/item3.jpg",
+    "title":"ㄱ에디션 랩탑 백",
+    "discount":"25%",
+    "price":"74,250원"
+},
+
+{
+    "src":"img/item4.jpg",
+    "title":"ㄱ에디션 슬리브 케이스&...",
+    "discount":"25%",
+    "price":"56,250원"
+},
+{
+    "src":"img/item5.jpg",
+    "title":"ㄱ에디션 에디 팬홀더 3세트",
+    "discount":"25%",
+    "price":"57,380원"
+},{
+    "src":"img/item6.jpg",
+    "title":"ㄱ에디션 2023년 다이어리",
+    "discount":"60%",
+    "price":"9,800원"
+},
+{
+    "src":"img/item7.jpg",
+    "title":"ㄱ에디션 유선노트(레드)",
+    "discount":"25%",
+    "price":"10,500원"
+},
+{
+    "src":"img/item8.jpg",
+    "title":"[교보문고x무운]흑토끼 캐...",
+    "discount":"30%",
+    "price":"10,900원"
+},
+{
+    "src":"img/item9.jpg",
+    "title":"A.W.T마크",
+    "discount":"30%",
+    "price":"9,030원"
+},
+{
+    "src":"img/item10.jpg",
+    "title":"[교보문고x무운]흑토끼 캐...",
+    "discount":"30%",
+    "price":"10,900원"
+}]
